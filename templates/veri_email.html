@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Verifying email</title>
+</head>
+<body>
+	<h2>OTP is generated to ur email</h2>
+	<form action="{{url_for('success_email')}}" method="post">
+		<input type="text" name="otp" placeholder="Enter OTP"><br>
+		<input type="submit" value="send">
+	</form>
+</body>
+</html>

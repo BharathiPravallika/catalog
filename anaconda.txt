@@ -1,0 +1,16 @@
+conda update conda
+conda update --all
+
+
+
+
+
+
+
+
+
+
+
+
+
+file:///C:/Users/Anjuma%20Nasreen/AppData/Roaming/jupyter/runtime/nbserver-7736-open.html
